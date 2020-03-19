@@ -1,4 +1,12 @@
 ![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.png "CoronaVirus Disease 2019 Banner")
+# Ongoing Covid-19 App Challenges
+## 1. [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?utm_medium=email&utm_source=intercom&utm_campaign=CORD-19-research-chal-email)
+An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House
+### Description
+In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 29,000 scholarly articles, including over 13,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease.
+### Prizes
+Kaggle is sponsoring a $1,000 per task award to the winner whose submission is identified as best meeting the evaluation criteria. The winner may elect to receive this award as a charitable donation to COVID-19 relief/research efforts or as a monetary payment. More details on the prizes and timeline can be found on the discussion post.
+![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
 
