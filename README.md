@@ -10,23 +10,27 @@ Kaggle is sponsoring a $1,000 per task award to the winner whose submission is i
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
 
-### <p align="center"><a href="#Dart">Dart</a> | <a href="#HTML">HTML</a> | <a href="#Java">Java</a> | <a href="#JavaScript">JavaScript</a> | <a href="#Kotlin">Kotlin</a> | <a href="#PHP">PHP</a> | <a href="#Python">Python</a> | <a href="#Ruby">Ruby</a> | <a href="#Swift">Swift</a> | <a href="#Vue">Vue</a> | <a href="#Other">Other</a></p>
+### <p align="center"><a href="#Dart">Dart</a> | <a href="#Go">Go</a> | <a href="#HTML">HTML</a> | <a href="#Go">Go</a> | <a href="#JavaScript">JavaScript</a> | <a href="#Kotlin">Kotlin</a> | <a href="#PHP">PHP</a> | <a href="#Python">Python</a> | <a href="#Ruby">Ruby</a> | <a href="#Swift">Swift</a> | <a href="#Vue">Vue</a> | <a href="#Other">Other</a></p>
 
 ## <a name="Dart"> </a>Dart
+* [selft_tracking_app](https://github.com/tayormi/covid_tracker) - A tracking app for tracking corona virus incidence around the world. **By [@Temitope Ajiboye](https://github.com/tayormi)**
+* [selft_tracking_app](https://github.com/ayubowan/selft_tracking_app) - Sri Lanka COVID-19 Self Tracking App. **By [@ayubowan](https://github.com/ayubowan)**
+
+## <a name="Go"> </a>Go
+* [COVID-19-Nav](https://github.com/wuhan2020/COVID-19-Nav) - COVID-19 New Coronavirus Pneumonia Epidemic Information Navigation. **By [@wuhan2020 open source community](https://community.wuhan2020.org.cn/)**
 
 ## <a name="HTML"> </a>HTML
 * [COVID19TrackingWebsite](https://github.com/COVID19Tracking/website) - COVID 19 Tracking Website. **By [@COVID19Tracking](http://covidtracking.com/)**
 
-## <a name="Java"> </a>Java
-
 ## <a name="JavaScript"> </a>JavaScript
+* [covid19-updates](https://github.com/the-robot/covid19-updates) - Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus). **By [@the-robot](https://khant.dev/)**
 * [coronavirus-tracker](https://github.com/ExpDev07/coronavirus-tracker) - 🦠 A live tracker and visualization of the coronavirus (2019-nCoV). Consists purely of a frontend written in EmberJS. **By [@ExpDev07](https://github.com/ExpDev07)**
 * [2019-ncov](https://github.com/shfshanyue/2019-ncov) - Real-time map of provinces and cities with new type of coronavirus and pneumonia in China. **By [@shfshanyuep](https://github.com/shfshanyuep)**
 * [covid19](https://github.com/pomber/covid19) - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily. **By [@Rodrigo Pombo](https://pomb.us)**
 
 ## <a name="Kotlin"> </a>Kotlin
+* [get_rid_of_corona](https://github.com/ayubowan/get_rid_of_corona) - Simple community driven application which helps to identify corona infected. **By [@ayubowan](https://github.com/ayubowan)**
 * [kotlin-mvvm-covid19](https://github.com/rizmaulana/kotlin-mvvm-covid19) - simple COVID19 data monitoring with android stack MVVM, Live Data, Koin, RxJava, RxBinding, Offline first with simple caching, etc. **By [@riz_maulana](https://medium.com/@riz_maulana)**
-
 ## <a name="PHP"> </a>PHP
 * [2019-wuhan-coronavirus-data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) - 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV). **By [@globalcitizen](https://github.com/globalcitizen)**
 * [Covid-19 Stats](https://github.com/richardkeep/covid-19) - A small Laravel app to display Covid-19 Stats from different countries in the world. Uses Laravel, Livewire & TailwindCSS 😷. **By [@richard_keep](https://twitter.com/richard_keep)**
