@@ -1,5 +1,5 @@
 ![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.png "CoronaVirus Disease 2019 Banner")
-# Covid-19 App Challenge
+# Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
 
 ### <p align="center"><a href="#Dart">Dart</a> | <a href="#Go">Go</a> | <a href="#Java">Java</a> | <a href="#JavaScript">JavaScript</a> | <a href="#Kotlin">Kotlin</a> | <a href="#PHP">PHP</a> | <a href="#Python">Python</a> | <a href="#Ruby">Ruby</a> | <a href="#Vue">Vue</a> | <a href="#Other">Other</a></p>
