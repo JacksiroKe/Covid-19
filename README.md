@@ -10,11 +10,12 @@ Kaggle is sponsoring a $1,000 per task award to the winner whose submission is i
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
 
-### <p align="center"><a href="#Dart">Dart</a> | <a href="#Go">Go</a> | <a href="#HTML">HTML</a> | <a href="#Go">Go</a> | <a href="#JavaScript">JavaScript</a> | <a href="#Kotlin">Kotlin</a> | <a href="#PHP">PHP</a> | <a href="#Python">Python</a> | <a href="#Ruby">Ruby</a> | <a href="#Swift">Swift</a> | <a href="#Vue">Vue</a> | <a href="#Other">Other</a></p>
+### <p align="center"><a href="#Dart">Dart</a> | <a href="#Go">Go</a> | <a href="#HTML">HTML</a> | <a href="#Go">Go</a> | <a href="#JavaScript">JavaScript</a> | <a href="#Kotlin">Kotlin</a> | <a href="#PHP">PHP</a> | <a href="#Python">Python</a> | <a href="#R">R</a> | <a href="#Ruby">Ruby</a> | <a href="#Swift">Swift</a> | <a href="#Vue">Vue</a> | <a href="#Other">Other</a></p>
 
 ## <a name="Dart"> </a>Dart
-* [selft_tracking_app](https://github.com/tayormi/covid_tracker) - A tracking app for tracking corona virus incidence around the world. **By [@Temitope Ajiboye](https://github.com/tayormi)**
+* [covid_tracker](https://github.com/tayormi/covid_tracker) - A tracking app for tracking corona virus incidence around the world. **By [@Temitope Ajiboye](https://github.com/tayormi)**
 * [selft_tracking_app](https://github.com/ayubowan/selft_tracking_app) - Sri Lanka COVID-19 Self Tracking App. **By [@ayubowan](https://github.com/ayubowan)**
+* [covid19](https://github.com/hifiaz/covid19) - Monitoring Covid Appp. **By [@hifiaz](https://github.com/hifiaz)**
 
 ## <a name="Go"> </a>Go
 * [COVID-19-Nav](https://github.com/wuhan2020/COVID-19-Nav) - COVID-19 New Coronavirus Pneumonia Epidemic Information Navigation. **By [@wuhan2020 open source community](https://community.wuhan2020.org.cn/)**
@@ -38,6 +39,10 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 ## <a name="Python"> </a>Python
 * [coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) - 🦠 A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak. It's written in python using the 🍼 Flask framework. **By [@ExpDev07](https://github.com/ExpDev07)**
 
+## <a name="R"> </a>R
+* [2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan) - 🦠 Interactive dashboard of COVID-19 cases in Japan. **By [@swsoyee
+](https://covid-2019.live/)**
+
 ## <a name="Ruby"> </a>Ruby
 * [covid](https://github.com/lifen-labs/covid) - Covid-19 patients' self-monitoring at home via forms sent by SMS. **By [@Lifen (labs)
 ](https://www.lifen.fr/international/en/)**
@@ -46,6 +51,7 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 * [Covidcheck](https://github.com/julianschiavo/Covidcheck) - Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface. **By [@julianschiavo](https://schiavo.me/)**
 
 ## <a name="Vue"> </a>Vue
+* [2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend) - 🌏Map, data and timeline of coronavirus (COVID-19). **By [@sorxrob](https://the2019ncov.com)**
 * [covid19-live-visualization](https://github.com/localeai/covid19-live-visualization) - Live visualization of novel corona virus (COVID19) outbreak. **By [@Locale.ai](https://github.com/localeai)**
 
 ## <a name="Other"> </a>Other
