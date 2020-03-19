@@ -10,7 +10,7 @@ Kaggle is sponsoring a $1,000 per task award to the winner whose submission is i
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
 
-### <p align="center"><a href="#Dart">Dart</a> | <a href="#Go">Go</a> | <a href="#HTML">HTML</a> | <a href="#Go">Go</a> | <a href="#JavaScript">JavaScript</a> | <a href="#Kotlin">Kotlin</a> | <a href="#PHP">PHP</a> | <a href="#Python">Python</a> | <a href="#R">R</a> | <a href="#Ruby">Ruby</a> | <a href="#Swift">Swift</a> | <a href="#Vue">Vue</a> | <a href="#Other">Other</a></p>
+### <p align="center"><a href="#Dart">Dart</a> | <a href="#Go">Go</a> | <a href="#HTML">HTML</a> | <a href="#Go">Go</a> | <a href="#Java">Java</a> | <a href="#JavaScript">JavaScript</a> | <a href="#Jupyter Notebook"Jupyter Notebook<a> | <a href="#Kotlin">Kotlin</a> | <a href="#PHP">PHP</a> | <a href="#Python">Python</a> | <a href="#R">R</a> | <a href="#Ruby">Ruby</a> | <a href="#Shell">Shell</a> | <a href="#Swift">Swift</a> | <a href="#Vue">Vue</a> | <a href="#Other">Other</a></p>
 
 ## <a name="Dart"> </a>Dart
 * [covid_tracker](https://github.com/tayormi/covid_tracker) - A tracking app for tracking corona virus incidence around the world. **By [@Temitope Ajiboye](https://github.com/tayormi)**
@@ -23,11 +23,23 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 ## <a name="HTML"> </a>HTML
 * [COVID19TrackingWebsite](https://github.com/COVID19Tracking/website) - COVID 19 Tracking Website. **By [@COVID19Tracking](http://covidtracking.com/)**
 
+## <a name="Java"> </a>Java
+* [COVID-19-Telegram-bot](https://github.com/kasramp/COVID-19-Telegram-bot) - A Telegram bot to get latest progress on COVID-19. **By [@Kasra Madadipouya](http://github.com/kasramp)**
+* [covid19](https://github.com/tornabene/covid19app) - covid19 web app for insert data of coronavirus patient. **By [@Tindaro Tornabene](http://www.ntipa.com)**
+* [covid-19-api-server](https://github.com/GregVes/covid-19-api-server) - Spring Boot applications serving daily COVID-19 reports data. **By [@GregVes](https://github.com/GregVes)**
+* [Corona-Virus-Tracker](https://github.com/abhishekmohan2012/Corona-Virus-Tracker) - A Spring Boot application to track Coronavirus disease (COVID-19). **By [@Abhishek Mohan](https://github.com/abhishekmohan2012)**
+* [covid19](https://github.com/Lxnus/covid19) - COVID-19 Prediction and Visualization Software. **By [@Linus Schmidt](http://github.com/Lxnus)**
+* [Coronavirus](https://github.com/mew/Coronavirus) - Java API Wrapper for tracking coronavirus (COVID-19, SARS-CoV-2) via https://git.io/Jvoep. **By [@mew](http://github.com/mew)**
+* [nCOVIDroid](https://github.com/DineshNeupane/nCOVIDroid) - Android app to track the spread of novel Corona Virus (COVID-19) in near-realtime, thanks to Johns Hopkins University : CSSEGISandData / COVID-19. **By [@DineshNeupane](http://github.com/DineshNeupane)**
+
 ## <a name="JavaScript"> </a>JavaScript
 * [covid19-updates](https://github.com/the-robot/covid19-updates) - Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus). **By [@the-robot](https://khant.dev/)**
 * [coronavirus-tracker](https://github.com/ExpDev07/coronavirus-tracker) - 🦠 A live tracker and visualization of the coronavirus (2019-nCoV). Consists purely of a frontend written in EmberJS. **By [@ExpDev07](https://github.com/ExpDev07)**
 * [2019-ncov](https://github.com/shfshanyue/2019-ncov) - Real-time map of provinces and cities with new type of coronavirus and pneumonia in China. **By [@shfshanyuep](https://github.com/shfshanyuep)**
 * [covid19](https://github.com/pomber/covid19) - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily. **By [@Rodrigo Pombo](https://pomb.us)**
+
+## <a name="Jupyter Notebook"> </a>Jupyter Notebook
+* [COVID19](https://github.com/Rank23/COVID19) - Using Kalman Filter to Predict Corona Virus Spread. **By [@Rank23](https://github.com/Rank23)**
 
 ## <a name="Kotlin"> </a>Kotlin
 * [get_rid_of_corona](https://github.com/ayubowan/get_rid_of_corona) - Simple community driven application which helps to identify corona infected. **By [@ayubowan](https://github.com/ayubowan)**
@@ -46,6 +58,9 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 ## <a name="Ruby"> </a>Ruby
 * [covid](https://github.com/lifen-labs/covid) - Covid-19 patients' self-monitoring at home via forms sent by SMS. **By [@Lifen (labs)
 ](https://www.lifen.fr/international/en/)**
+
+## <a name="Shell"> </a>Shell
+* [covid19-time-series-utilities](https://github.com/dathere/covid19-time-series-utilities) - several utilities to help wrangle COVID-19 data into a time-series format. **By [@datHere, Inc.](https://datHere.com/)**
 
 ## <a name="Swift"> </a>Swift
 * [Covidcheck](https://github.com/julianschiavo/Covidcheck) - Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface. **By [@julianschiavo](https://schiavo.me/)**
