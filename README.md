@@ -10,7 +10,7 @@ Kaggle is sponsoring a $1,000 per task award to the winner whose submission is i
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
 
-### <p align="center"><a href="#Dart">Dart</a> | <a href="#Go">Go</a> | <a href="#HTML">HTML</a> | <a href="#Go">Go</a> | <a href="#Java">Java</a> | <a href="#JavaScript">JavaScript</a> | <a href="#Jupyter Notebook"Jupyter Notebook<a> | <a href="#Kotlin">Kotlin</a> | <a href="#PHP">PHP</a> | <a href="#Python">Python</a> | <a href="#R">R</a> | <a href="#Ruby">Ruby</a> | <a href="#Shell">Shell</a> | <a href="#Swift">Swift</a> | <a href="#Vue">Vue</a> | <a href="#Other">Other</a></p>
+### <p align="center"><a href="#Dart">Dart</a> | <a href="#Go">Go</a> | <a href="#HTML">HTML</a> | <a href="#Go">Go</a> | <a href="#Java">Java</a> | <a href="#JavaScript">JavaScript</a> | <a href="#Jupyter Notebook">Jupyter Notebook</a> | <a href="#Kotlin">Kotlin</a> | <a href="#PHP">PHP</a> | <a href="#Python">Python</a> | <a href="#R">R</a> | <a href="#Ruby">Ruby</a> | <a href="#Shell">Shell</a> | <a href="#Swift">Swift</a> | <a href="#Vue">Vue</a> | <a href="#Other">Other</a></p>
 
 ## <a name="Dart"> </a>Dart
 * [covid_tracker](https://github.com/tayormi/covid_tracker) - A tracking app for tracking corona virus incidence around the world. **By [@Temitope Ajiboye](https://github.com/tayormi)**
