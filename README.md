@@ -6,6 +6,23 @@ An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House
 In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 29,000 scholarly articles, including over 13,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease.
 ### Prizes
 Kaggle is sponsoring a $1,000 per task award to the winner whose submission is identified as best meeting the evaluation criteria. The winner may elect to receive this award as a charitable donation to COVID-19 relief/research efforts or as a monetary payment. More details on the prizes and timeline can be found on the discussion post.
+## 2. [2020 Call for Code Global Challenge](https://developer.ibm.com/callforcode/getstarted/covid-19/)
+Join the fight. Form a team. Impact the world. 
+COVID-19: Fight the global pandemic
+### Description
+COVID-19 has revealed limits of the systems we take for granted, compromising our health, our planet, and our survival. We’ve expanded the 2020 Call for Code Global Challenge to take on COVID-19, while we remain steadfastly committed to combating climate change. Developers and problem solvers: join us to build open source solutions to make an immediate and lasting impact. 
+The 2020 Call for Code Global Challenge has expanded its focus to tackle the effects of COVID-19. Technology solutions can help reduce the impact this pandemic has on our daily lives and the world. We have the tools. You have the talent.  
+### Prizes
+#### Grand prize winner
+1. $200,000 USD cash prize
+2. Invitation to the Call for Code Global Award Announcement
+3. Open source project support from The Linux Foundation
+4. Opportunity for mentorship and investment in the solution
+5. Solution implementation support through Code and Response™
+#### First and second runner up
+1. $25,000 USD cash prize
+2. Invitation to the Call for Code Global Award Announcement
+3. Open source project support from The Linux Foundation
 ![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
