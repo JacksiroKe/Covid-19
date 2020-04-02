@@ -23,6 +23,26 @@ The 2020 Call for Code Global Challenge has expanded its focus to tackle the eff
 1. $25,000 USD cash prize
 2. Invitation to the Call for Code Global Award Announcement
 3. Open source project support from The Linux Foundation
+
+## 3. [#BuildforCOVID19 Global Online Hackathon](https://covid-global-hackathon.devpost.com)
+The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic.
+### Description
+We’re encouraging YOU - innovators around the world - to #BuildforCOVID19 using technologies of your choice across a range of suggested themes and challenge areas - some of which have been sourced through health partners including the World Health Organization and scientists at the Chan Zuckerberg Biohub.
+
+The hackathon welcomes locally and globally focused solutions, and is open to all developers - with support from technology companies and platforms including AWS, Facebook, Giphy, Microsoft, Pinterest, Salesforce, Slack, TikTok, Twitter and WeChat, who will be sharing resources to support participants throughout the submission period.
+
+With the World Health Organization (WHO) declaring coronavirus (COVID-19) a global pandemic, governments have issued guidance for members of the community to practice social distancing, while companies have enforced work from home policies in an effort to flatten the curve of viral infections across the population.
+
+Given the isolation currently being experienced within communities right now, we want to create an online space where developers can ideate, experiment and build software solutions to help address this crisis.
+
+### Prizes
+#### Social impact
+The real reward is driving meaningful social impact for the COVID-19 response
+
+#### Recognition
+Judge-selected projects will be shared widely across tech ecosystem and partner networks
+
+![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
 ![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
@@ -51,10 +71,11 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 * [NamasteCorona - Coronavirus Tracker Android App](https://github.com/GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app) - This is worldwide tracker and help information android application for the new coronavirus (2019-nCoV). **By [@GovindaPaliwal](https://gpfreetech.co)**
 
 ## <a name="JavaScript"> </a>JavaScript
+* [2019-ncov](https://github.com/shfshanyue/2019-ncov) - Real-time map of provinces and cities with new type of coronavirus and pneumonia in China. **By [@shfshanyuep](https://github.com/shfshanyuep)**
 * [covid19-updates](https://github.com/the-robot/covid19-updates) - Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus). **By [@the-robot](https://khant.dev/)**
 * [coronavirus-tracker](https://github.com/ExpDev07/coronavirus-tracker) - 🦠 A live tracker and visualization of the coronavirus (2019-nCoV). Consists purely of a frontend written in EmberJS. **By [@ExpDev07](https://github.com/ExpDev07)**
-* [2019-ncov](https://github.com/shfshanyue/2019-ncov) - Real-time map of provinces and cities with new type of coronavirus and pneumonia in China. **By [@shfshanyuep](https://github.com/shfshanyuep)**
 * [covid19](https://github.com/pomber/covid19) - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily. **By [@Rodrigo Pombo](https://pomb.us)**
+* [globalcovid](https://github.com/hackclub/globalcovid) - Website for 2020 COVID-19 Global Hackathon. **By [@hackclub](https://hackclub.com)**
 
 ## <a name="Jupyter Notebook"> </a>Jupyter Notebook
 * [COVID19](https://github.com/Rank23/COVID19) - Using Kalman Filter to Predict Corona Virus Spread. **By [@Rank23](https://github.com/Rank23)**
