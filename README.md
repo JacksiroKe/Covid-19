@@ -43,7 +43,6 @@ The real reward is driving meaningful social impact for the COVID-19 response
 Judge-selected projects will be shared widely across tech ecosystem and partner networks
 
 ![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
-![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
 
