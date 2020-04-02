@@ -48,6 +48,7 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 * [covid19](https://github.com/Lxnus/covid19) - COVID-19 Prediction and Visualization Software. **By [@Linus Schmidt](http://github.com/Lxnus)**
 * [Coronavirus](https://github.com/mew/Coronavirus) - Java API Wrapper for tracking coronavirus (COVID-19, SARS-CoV-2) via https://git.io/Jvoep. **By [@mew](http://github.com/mew)**
 * [nCOVIDroid](https://github.com/DineshNeupane/nCOVIDroid) - Android app to track the spread of novel Corona Virus (COVID-19) in near-realtime, thanks to Johns Hopkins University : CSSEGISandData / COVID-19. **By [@DineshNeupane](http://github.com/DineshNeupane)**
+* [NamasteCorona - Coronavirus Tracker Android App](https://github.com/GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app) - This is worldwide tracker and help information android application for the new coronavirus (2019-nCoV). **By [@GovindaPaliwal](https://gpfreetech.co)**
 
 ## <a name="JavaScript"> </a>JavaScript
 * [covid19-updates](https://github.com/the-robot/covid19-updates) - Monitoring service and bot to give updates about COVID-19 (Novel Coronavirus). **By [@the-robot](https://khant.dev/)**
