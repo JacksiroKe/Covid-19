@@ -1,4 +1,4 @@
-![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.png "CoronaVirus Disease 2019 Banner")
+<center><img src="https://github.com/JacksiroKe/Covid-19/blob/master/covid.png" title="CoronaVirus Disease 2019 Banner" /></center>
 ### INTRODUCTION
 **Coronavirus disease (COVID-19)** is an infectious disease caused by a new virus.
 The disease causes respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases, difficulty breathing. You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding close contact (1 meter or 3 feet) with people who are unwell.
@@ -79,4 +79,4 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
 # \[ 🚧👷‍♀️⛏ Work in Progress 🔧️👷🚧 \]
-![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
+<center><img src="https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner"/></center>
