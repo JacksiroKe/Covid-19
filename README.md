@@ -7,9 +7,8 @@ Coronavirus disease spreads primarily through contact with an infected person wh
 
 # Covid-19 Code Challenges
 A number of organizations have put up Coding challenges for developers to participate in to be able to come up with innovative apps and apis that will help Global health organizations and individuals to track the spread of CoronaVirus (COVID-19).
-## [View Covid-19 Code Challenges](CHALLENGE.md)
+## [Proceed to View Covid-19 Code Challenges](CHALLENGE.md)
 
-![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
 
@@ -73,6 +72,7 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 ## <a name="Vue"> </a>Vue
 * [2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend) - 🌏Map, data and timeline of coronavirus (COVID-19). **By [@sorxrob](https://the2019ncov.com)**
 * [covid19-live-visualization](https://github.com/localeai/covid19-live-visualization) - Live visualization of novel corona virus (COVID19) outbreak. **By [@Locale.ai](https://github.com/localeai)**
+![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
 
 ## <a name="Other"> </a>Other
 * [Covid-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE. **By [@CSSEGISandData](https://systems.jhu.edu/research/public-health/ncov/)**
