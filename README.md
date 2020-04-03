@@ -72,10 +72,10 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 ## <a name="Vue"> </a>Vue
 * [2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend) - 🌏Map, data and timeline of coronavirus (COVID-19). **By [@sorxrob](https://the2019ncov.com)**
 * [covid19-live-visualization](https://github.com/localeai/covid19-live-visualization) - Live visualization of novel corona virus (COVID19) outbreak. **By [@Locale.ai](https://github.com/localeai)**
-![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
 
 ## <a name="Other"> </a>Other
 * [Covid-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE. **By [@CSSEGISandData](https://systems.jhu.edu/research/public-health/ncov/)**
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
 # \[ 🚧👷‍♀️⛏ Work in Progress 🔧️👷🚧 \]
+![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
