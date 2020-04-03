@@ -11,7 +11,7 @@ Coronavirus disease spreads primarily through contact with an infected person wh
 
 # Covid-19 Code Challenges
 A number of organizations have put up Coding challenges for developers to participate in to be able to come up with innovative apps and apis that will help Global health organizations and individuals to track the spread of CoronaVirus (COVID-19).
-## [Proceed to View Covid-19 Code Challenges](CHALLENGE.md)
+## [Proceed to View Covid-19 Code Challenges](CHALLENGES.md)
 
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
