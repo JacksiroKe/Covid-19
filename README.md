@@ -42,6 +42,23 @@ The real reward is driving meaningful social impact for the COVID-19 response
 #### Recognition
 Judge-selected projects will be shared widely across tech ecosystem and partner networks
 
+## 4. [Twilio x DEV Community Hackathon](https://dev.to/devteam/announcing-the-twilio-hackathon-on-dev-2lh8)
+Running through April 30, this contest will be an opportunity to earn community bragging rights, build impactful projects with Twilio, and win sweet prizes. Twilio has some of the most powerful APIs around town, and we are really looking forward to seeing what everyone in the community creates.
+### Description: The Twilio APIs
+You are allowed to use any of the Twilio APIs in your project. You’re likely already familiar with Twilio’s SMS products, but you might not know that they have [a bunch of other awesome products](https://www.twilio.com/products) you can leverage for your submission.
+
+So, while you’re very welcome to submit an SMS project, we’re also excited to review and reward entries that leverage programmable [voice](https://www.twilio.com/voice), [video](https://www.twilio.com/video), [chat](https://www.twilio.com/chat), cross-channel [conversations](https://www.twilio.com/conversations), and the rest of the [Twilio products](https://www.twilio.com/products)!
+
+Among the categories in this hackathon is **COVID-19 Communications.** This is an app to help folks communicate during this challenging time, either to stay connected or to help resolve COVID-19 related challenges.
+_**Examples**: Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
+
+### Prizes
+#### Social impact
+The real reward is driving meaningful social impact for the COVID-19 response
+
+#### Recognition
+Judge-selected projects will be shared widely across tech ecosystem and partner networks
+
 ![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner")
 # Covid-19 Apps & APIs
 A collection of awesome COVID-19 tools built to help Global health organizations
