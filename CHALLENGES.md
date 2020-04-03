@@ -1,4 +1,7 @@
-![COVID-19](https://github.com/JacksiroKe/Covid-19/blob/master/covid.png "CoronaVirus Disease 2019 Banner")
+<p align="center">
+<img src="https://github.com/JacksiroKe/Covid-19/blob/master/covid.png "CoronaVirus Disease 2019 Banner"/>
+</p>
+                                                                                                        
 # Ongoing Covid-19 App Challenges
 ## 1. [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?utm_medium=email&utm_source=intercom&utm_campaign=CORD-19-research-chal-email)
 An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House
@@ -48,39 +51,44 @@ Running through April 30, this contest will be an opportunity to earn community 
 
 ### Categories
 
-*   **COVID-19 Communications**: an app to help folks communicate during this challenging time, either to stay connected or to help resolve COVID-19 related challenges.
+#### COVID-19 Communications
+* an app to help folks communicate during this challenging time, either to stay connected or to help resolve COVID-19 related challenges.
 
-    *   _Examples: Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
-*   **Engaging Engagements**: an app that a company could implement to better engage with their customers or to manage their business.
+_**Examples:** Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
 
-    *   _Examples: text marketing, fleet management, account notifications, and more -- get more ideas from [the Twilio website](https://www.twilio.com/solutions)_
-*   **Interesting Integrations**: an app that integrates Twilio with at least one other API.
+#### Engaging Engagements
+* an app that a company could implement to better engage with their customers or to manage their business.
+_**Examples:** text marketing, fleet management, account notifications, and more -- get more ideas from [the Twilio website](https://www.twilio.com/solutions)_
 
-    *   _Examples: appointment reminders app that uses a scheduling API, sports alert app that uses sports-stat APIs, location-based app that leverages geo-location APIs_
-*   **Exciting X-Factors**: an innovative or unexpected app that doesn’t necessarily fit any of the above categories, but is a clear winner nonetheless.
+#### Interesting Integrations
+* an app that integrates Twilio with at least one other API.
+_**Examples:** appointment reminders app that uses a scheduling API, sports alert app that uses sports-stat APIs, location-based app that leverages geo-location APIs_
+#### Exciting X-Factors
+* an innovative or unexpected app that doesn’t necessarily fit any of the above categories, but is a clear winner nonetheless.
 
-_**Examples**: Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
+_**Examples:** Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
 
 ### Prizes 🎁
 
 #### 4 Grand Prize Winners (one in each category):
 
-    *   $1,500 USD gift card or equivalent 💸
-    *   Twilio Swag Pack ($300 value) 😎
-    *   [SIGNAL Conference](https://www.twilio.com/signal) Ticket ($2500 USD value) 🔥
-    *   Your project showcased on [Twilio CodeExchange](https://www.twilio.com/code-exchange), with a winner badge ✨
-    *   $300 USD credit to the [DEV Shop](https://shop.dev.to/) 🎁
-    *   DEV “Twilio Hackathon” winner badge 🏆
+*   $1,500 USD gift card or equivalent 💸
+*   Twilio Swag Pack ($300 value) 😎
+*   [SIGNAL Conference](https://www.twilio.com/signal) Ticket ($2500 USD value) 🔥
+*   Your project showcased on [Twilio CodeExchange](https://www.twilio.com/code-exchange), with a winner badge ✨
+*   $300 USD credit to the [DEV Shop](https://shop.dev.to/) 🎁
+*   DEV “Twilio Hackathon” winner badge 🏆
+    
 #### Runner-up Prizes (10 total):
 
-    *   $150 USD credit to the [DEV Shop](https://shop.dev.to/) 🎁
-    *   Your project showcased on [Twilio CodeExchange](https://www.twilio.com/code-exchange)
-    *   DEV “Twilio Hackathon” runner-up badge 👏
+*   $150 USD credit to the [DEV Shop](https://shop.dev.to/) 🎁
+*   Your project showcased on [Twilio CodeExchange](https://www.twilio.com/code-exchange)
+*   DEV “Twilio Hackathon” runner-up badge 👏
     
 #### Participants (with valid projects):
 
-    *   $50 USD credit to the [DEV Shop](https://shop.dev.to/) 🎁
-    *   DEV “Twilio Hackathon” participation badge 💪
+*   $50 USD credit to the [DEV Shop](https://shop.dev.to/) 🎁
+*   DEV “Twilio Hackathon” participation badge 💪
 
 Regardless of whether or not you win, your project may be showcased on [Twilio CodeExchange](https://www.twilio.com/code-exchange)!
 
@@ -102,3 +110,8 @@ In order to submit a valid project, please follow the submission process and rul
 *   Your project should not have security vulnerabilities or violate security best practices (i.e. hard coded credentials, plain text passwords)
 *   Your code cannot violate Twilio’s [Terms of Service](https://www.twilio.com/legal/tos) or [Acceptable Use Policy](https://www.twilio.com/legal/aup)
 *   By making a submission, you agree to the [competition's terms](http://twil.io/terms-dev-hackathon).
+
+ # \[ 🚧👷‍♀️⛏ Work in Progress 🔧️👷🚧 \]
+<p align="center">
+<img src="https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner"/>
+</p>
