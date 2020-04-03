@@ -3,7 +3,7 @@
 </p>
                                                                                                         
 # Ongoing Covid-19 App Challenges
-## 1. [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?utm_medium=email&utm_source=intercom&utm_campaign=CORD-19-research-chal-email)
+## 1. [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House
 ### Description
 In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 29,000 scholarly articles, including over 13,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease.
@@ -45,35 +45,28 @@ The real reward is driving meaningful social impact for the COVID-19 response
 
 #### Recognition
 Judge-selected projects will be shared widely across tech ecosystem and partner networks
-<div class="section-title bold">
 
-### REQUIREMENTS
-
-</div>
-
-<div>
-
-#### **WHAT SUCCESS LOOKS LIKE  
+### REQUIREMENTS (WHAT SUCCESS LOOKS LIKE) 
 
 **Option 1: Build a production-ready solution for immediate impact**  
 
-    *   These will be projects that are ready to hit the ground running in communities around the world.
-    *   Examples include:  
+*   These will be projects that are ready to hit the ground running in communities around the world.
+*   Examples include:  
 
-        *   [N](http://www.neighborexpress.org/)[eighborexpress.org](http://www.neighborexpress.org/)
-        *   [Projectn95.com](https://www.projectn95.com/)
-        *   [Bailout.nyc](https://bailout.nyc/)
-        *   [Covidactnow.org](https://covidactnow.org/)
-        *   [Saveourfaves.org](https://saveourfaves.org/)
+    *   [N](http://www.neighborexpress.org/)[eighborexpress.org](http://www.neighborexpress.org/)
+    *   [Projectn95.com](https://www.projectn95.com/)
+    *   [Bailout.nyc](https://bailout.nyc/)
+    *   [Covidactnow.org](https://covidactnow.org/)
+    *   [Saveourfaves.org](https://saveourfaves.org/)
 
 **Option 2: Ship an awesome proof-of-concept with lots of potential**  
 
-    *   These will be conceptual projects with bucket-loads of promise.
-    *   Examples include tools for:  
+*   These will be conceptual projects with bucket-loads of promise.
+*   Examples include tools for:  
 
-        *   Helping people with supplies or resources locally
-        *   Combating loneliness
-        *   Replacing income with work-from-home options
+    *   Helping people with supplies or resources locally
+    *   Combating loneliness
+    *   Replacing income with work-from-home options
 
 Production-ready projects will not be favored over proof-of-concepts. The judges’ north star will be submissions that have the strongest potential impact on the challenges caused by COVID-19\.  
 
