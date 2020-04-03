@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/JacksiroKe/Covid-19/blob/master/covid.png" title="CoronaVirus Disease 2019 Banner" />
+<p  align="center">
+  <img src="https://github.com/JacksiroKe/Covid-19/blob/master/covid.png" title="CoronaVirus Disease 2019 Banner" />
+</p>
 
 ### INTRODUCTION
 **Coronavirus disease (COVID-19)** is an infectious disease caused by a new virus.
@@ -79,7 +81,7 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 * [Covid-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE. **By [@CSSEGISandData](https://systems.jhu.edu/research/public-health/ncov/)**
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
+ # \[ 🚧👷‍♀️⛏ Work in Progress 🔧️👷🚧 \]
 <p align="center">
-  # \[ 🚧👷‍♀️⛏ Work in Progress 🔧️👷🚧 \]<br>
 <img src="https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner"/>
 </p>
