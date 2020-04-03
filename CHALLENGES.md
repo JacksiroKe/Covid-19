@@ -6,6 +6,7 @@ An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House
 In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 29,000 scholarly articles, including over 13,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease.
 ### Prizes
 Kaggle is sponsoring a $1,000 per task award to the winner whose submission is identified as best meeting the evaluation criteria. The winner may elect to receive this award as a charitable donation to COVID-19 relief/research efforts or as a monetary payment. More details on the prizes and timeline can be found on the discussion post.
+
 ## 2. [2020 Call for Code Global Challenge](https://developer.ibm.com/callforcode/getstarted/covid-19/)
 Join the fight. Form a team. Impact the world. 
 COVID-19: Fight the global pandemic
@@ -50,6 +51,7 @@ You are allowed to use any of the Twilio APIs in your project. You’re likely a
 So, while you’re very welcome to submit an SMS project, we’re also excited to review and reward entries that leverage programmable [voice](https://www.twilio.com/voice), [video](https://www.twilio.com/video), [chat](https://www.twilio.com/chat), cross-channel [conversations](https://www.twilio.com/conversations), and the rest of the [Twilio products](https://www.twilio.com/products)!
 
 Among the categories in this hackathon is **COVID-19 Communications.** This is an app to help folks communicate during this challenging time, either to stay connected or to help resolve COVID-19 related challenges.
+
 _**Examples**: Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
 
 ### Prizes
@@ -59,3 +61,18 @@ The real reward is driving meaningful social impact for the COVID-19 response
 #### Recognition
 Judge-selected projects will be shared widely across tech ecosystem and partner networks
 
+### How to submit 📨
+
+*   Join the [Twilio CodeExchange community](https://ahoy.twilio.com/code-exchange-community) by filling out their program agreement.
+*   Document your project journey along the way with the [#twiliohackathon](http://dev.to/t/twiliohackathon) tag.
+*   Submit your project as a DEV post using this [suggested template](https://dev.to/new/twiliohackathon) with the #twiliohackathon tag. Please be sure to include the code repository in the post. Embedded live demos, screenshots, and code snippets are also encouraged!
+
+### Additional Rules 📝
+
+*   You must include at least one [Twilio API](https://www.twilio.com/docs/api) in your project. [Use the promo code](https://twil.io/apply-promo) DEVHACK20 for $20 when you create your account.
+*   Your code must be hosted publicly . We prefer GitHub but if you’re using another host (i.e. GitLab, BitBucket), please be sure to include the GitHub username you used to join the Twilio CodeExchange community somewhere in your submission.
+*   Your repository must have a README with clear setup instructions - [here](http://github.com/twilio-labs/sample-template-nodejs) is a sample template.
+*   Your code must be licensed with a permissive license (i.e. MIT, Apache-2)
+*   Your project should not have security vulnerabilities or violate security best practices (i.e. hard coded credentials, plain text passwords)
+*   Your code cannot violate Twilio’s [Terms of Service](https://www.twilio.com/legal/tos) or [Acceptable Use Policy](https://www.twilio.com/legal/aup)
+*   By making a submission, you agree to the [competition's terms](http://twil.io/terms-dev-hackathon).
