@@ -49,24 +49,26 @@ Judge-selected projects will be shared widely across tech ecosystem and partner 
 ## 4. [Twilio x DEV Community Hackathon](https://dev.to/devteam/announcing-the-twilio-hackathon-on-dev-2lh8)
 Running through April 30, this contest will be an opportunity to earn community bragging rights, build impactful projects with Twilio, and win sweet prizes. Twilio has some of the most powerful APIs around town, and we are really looking forward to seeing what everyone in the community creates.
 
-### Categories
+### Categories (Description)
 
 #### COVID-19 Communications
 * an app to help folks communicate during this challenging time, either to stay connected or to help resolve COVID-19 related challenges.
 
-_**Examples:** Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
+   *   _**Examples:** Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
 
 #### Engaging Engagements
 * an app that a company could implement to better engage with their customers or to manage their business.
-_**Examples:** text marketing, fleet management, account notifications, and more -- get more ideas from [the Twilio website](https://www.twilio.com/solutions)_
+
+   *    _**Examples:** text marketing, fleet management, account notifications, and more -- get more ideas from [the Twilio website](https://www.twilio.com/solutions)_
 
 #### Interesting Integrations
 * an app that integrates Twilio with at least one other API.
-_**Examples:** appointment reminders app that uses a scheduling API, sports alert app that uses sports-stat APIs, location-based app that leverages geo-location APIs_
+
+   *   _**Examples:** appointment reminders app that uses a scheduling API, sports alert app that uses sports-stat APIs, location-based app that leverages geo-location APIs_
 #### Exciting X-Factors
 * an innovative or unexpected app that doesn’t necessarily fit any of the above categories, but is a clear winner nonetheless.
 
-_**Examples:** Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
+   *   _**Examples:** Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
 
 ### Prizes 🎁
 
