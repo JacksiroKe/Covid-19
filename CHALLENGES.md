@@ -45,7 +45,62 @@ The real reward is driving meaningful social impact for the COVID-19 response
 
 #### Recognition
 Judge-selected projects will be shared widely across tech ecosystem and partner networks
+<div class="section-title bold">
 
+### REQUIREMENTS
+
+</div>
+
+<div>
+
+#### **WHAT SUCCESS LOOKS LIKE  
+**
+
+*   **Option 1: Build a production-ready solution for immediate impact**  
+
+    *   These will be projects that are ready to hit the ground running in communities around the world.
+    *   Examples include:  
+
+        *   [N](http://www.neighborexpress.org/)[eighborexpress.org](http://www.neighborexpress.org/)
+        *   [Projectn95.com](https://www.projectn95.com/)
+        *   [Bailout.nyc](https://bailout.nyc/)
+        *   [Covidactnow.org](https://covidactnow.org/)
+        *   [Saveourfaves.org](https://saveourfaves.org/)
+
+*   **Option 2: Ship an awesome proof-of-concept with lots of potential**  
+
+    *   These will be conceptual projects with bucket-loads of promise.
+    *   Examples include tools for:  
+
+        *   Helping people with supplies or resources locally
+        *   Combating loneliness
+        *   Replacing income with work-from-home options
+
+Production-ready projects will not be favored over proof-of-concepts. The judges’ north star will be submissions that have the strongest potential impact on the challenges caused by COVID-19\.  
+
+#### **REQUIREMENTS**
+
+*   **Submission form **
+    *   Submit your project here on Devpost before the deadline and be sure to answer all of the questions on the submission form. **Submission (including video/code links) are editable until the submission deadline.  **This and other information related to your submission will be treated consistent with the Devpost [privacy policy](https://info.devpost.com/privacy).
+*   **Video**
+    *   Upload a video walk-through your solution via YouTube or Vimeo, and include the link on your Devpost page for your project.
+    *   By submitting a video, you are acknowledging that these materials may be used to promote the hackathon anywhere in the world, without extra obligation to you.
+    *   Videos should be a maximum of 2 minutes long. 
+        *   Only the first two minutes of each video will be evaluated.
+*   **GitHub or other code repo link (optional)**
+    *   Please ensure that this link is publicly shareable so judges can access your project
+
+#### **GUIDANCE**
+
+*   **Guidance for a good video **(In order to evaluate all projects, only the first 2 minutes of the video will be evaluated)
+    *   Introduce yourself briefly (names of the project and the team)
+    *   What is the problem you are trying to solve for (1-2 sentences)
+    *   Describe your project:
+        *   How did you address this problem? (provide enough technical detail to understand technical feasibility but try to keep it brief)
+        *   What are sample use cases?
+        *   Who (or what organizations) could potentially benefit from your solution? 
+
+</div>
 ## 4. [Twilio x DEV Community Hackathon](https://dev.to/devteam/announcing-the-twilio-hackathon-on-dev-2lh8)
 Running through April 30, this contest will be an opportunity to earn community bragging rights, build impactful projects with Twilio, and win sweet prizes. Twilio has some of the most powerful APIs around town, and we are really looking forward to seeing what everyone in the community creates.
 
