@@ -54,7 +54,9 @@ Running through April 30, this contest will be an opportunity to earn community 
 #### COVID-19 Communications
 an app to help folks communicate during this challenging time, either to stay connected or to help resolve COVID-19 related challenges.
 
-`   _**Examples:** Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_ `
+`   
+_**Examples:** Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_ 
+`
 
 #### Engaging Engagements
 an app that a company could implement to better engage with their customers or to manage their business.
