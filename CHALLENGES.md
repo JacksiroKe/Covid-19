@@ -70,7 +70,7 @@ an app that integrates Twilio with at least one other API.
 #### Exciting X-Factors
 an innovative or unexpected app that doesn’t necessarily fit any of the above categories, but is a clear winner nonetheless.
 
-`   _**Examples:** Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_ `
+>   _**Examples:** Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_ 
 
 ### Prizes 🎁
 
