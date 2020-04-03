@@ -45,29 +45,55 @@ Judge-selected projects will be shared widely across tech ecosystem and partner 
 
 ## 4. [Twilio x DEV Community Hackathon](https://dev.to/devteam/announcing-the-twilio-hackathon-on-dev-2lh8)
 Running through April 30, this contest will be an opportunity to earn community bragging rights, build impactful projects with Twilio, and win sweet prizes. Twilio has some of the most powerful APIs around town, and we are really looking forward to seeing what everyone in the community creates.
-### Description: The Twilio APIs
-You are allowed to use any of the Twilio APIs in your project. You’re likely already familiar with Twilio’s SMS products, but you might not know that they have [a bunch of other awesome products](https://www.twilio.com/products) you can leverage for your submission.
 
-So, while you’re very welcome to submit an SMS project, we’re also excited to review and reward entries that leverage programmable [voice](https://www.twilio.com/voice), [video](https://www.twilio.com/video), [chat](https://www.twilio.com/chat), cross-channel [conversations](https://www.twilio.com/conversations), and the rest of the [Twilio products](https://www.twilio.com/products)!
+### Categories
 
-Among the categories in this hackathon is **COVID-19 Communications.** This is an app to help folks communicate during this challenging time, either to stay connected or to help resolve COVID-19 related challenges.
+*   **COVID-19 Communications**: an app to help folks communicate during this challenging time, either to stay connected or to help resolve COVID-19 related challenges.
+
+    *   _Examples: Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
+*   **Engaging Engagements**: an app that a company could implement to better engage with their customers or to manage their business.
+
+    *   _Examples: text marketing, fleet management, account notifications, and more -- get more ideas from [the Twilio website](https://www.twilio.com/solutions)_
+*   **Interesting Integrations**: an app that integrates Twilio with at least one other API.
+
+    *   _Examples: appointment reminders app that uses a scheduling API, sports alert app that uses sports-stat APIs, location-based app that leverages geo-location APIs_
+*   **Exciting X-Factors**: an innovative or unexpected app that doesn’t necessarily fit any of the above categories, but is a clear winner nonetheless.
 
 _**Examples**: Social interaction apps especially for elderly, remote education tools, distribution of supplies to those in need, telemedicine_
 
-### Prizes
-#### Social impact
-The real reward is driving meaningful social impact for the COVID-19 response
+### Prizes 🎁
 
-#### Recognition
-Judge-selected projects will be shared widely across tech ecosystem and partner networks
+#### 4 Grand Prize Winners (one in each category):
 
-### How to submit 📨
+    *   $1,500 USD gift card or equivalent 💸
+    *   Twilio Swag Pack ($300 value) 😎
+    *   [SIGNAL Conference](https://www.twilio.com/signal) Ticket ($2500 USD value) 🔥
+    *   Your project showcased on [Twilio CodeExchange](https://www.twilio.com/code-exchange), with a winner badge ✨
+    *   $300 USD credit to the [DEV Shop](https://shop.dev.to/) 🎁
+    *   DEV “Twilio Hackathon” winner badge 🏆
+#### Runner-up Prizes (10 total):
+
+    *   $150 USD credit to the [DEV Shop](https://shop.dev.to/) 🎁
+    *   Your project showcased on [Twilio CodeExchange](https://www.twilio.com/code-exchange)
+    *   DEV “Twilio Hackathon” runner-up badge 👏
+    
+#### Participants (with valid projects):
+
+    *   $50 USD credit to the [DEV Shop](https://shop.dev.to/) 🎁
+    *   DEV “Twilio Hackathon” participation badge 💪
+
+Regardless of whether or not you win, your project may be showcased on [Twilio CodeExchange](https://www.twilio.com/code-exchange)!
+
+### How To Participate 👋
+In order to submit a valid project, please follow the submission process and rules closely.
+
+#### How to submit 📨
 
 *   Join the [Twilio CodeExchange community](https://ahoy.twilio.com/code-exchange-community) by filling out their program agreement.
 *   Document your project journey along the way with the [#twiliohackathon](http://dev.to/t/twiliohackathon) tag.
 *   Submit your project as a DEV post using this [suggested template](https://dev.to/new/twiliohackathon) with the #twiliohackathon tag. Please be sure to include the code repository in the post. Embedded live demos, screenshots, and code snippets are also encouraged!
 
-### Additional Rules 📝
+#### Additional Rules 📝
 
 *   You must include at least one [Twilio API](https://www.twilio.com/docs/api) in your project. [Use the promo code](https://twil.io/apply-promo) DEVHACK20 for $20 when you create your account.
 *   Your code must be hosted publicly . We prefer GitHub but if you’re using another host (i.e. GitLab, BitBucket), please be sure to include the GitHub username you used to join the Twilio CodeExchange community somewhere in your submission.
